@@ -57,6 +57,8 @@ foreach ($SQL as $yes){
 			<br>CALL 1500 208 - KONTAK@KASIRTOKOBUKUAL-IKHLAS.CO.ID
 			<br>INFO PROMO : ADD @KASIRTOKOBUKUAL-IKHLAS DI LINE
 			<br>THANK YOU :)</h4>
+			<a href="index.html"><INPUT TYPE="button" value="Kembali" onclick="tekan()"></a></form>
+
 		</center>
 		
 <script>
